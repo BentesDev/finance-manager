@@ -12,3 +12,11 @@ Sistema de gestão financeira pessoal desenvolvido com Java e Spring Boot
 
 ## Status
 🚧 Em desenvolvimento
+
+## Modelo de Dados
+
+Diagrama do modelo de dados inicial do sistema.
+
+![Database Diagram](docs/database/finance-manager.png)
+
+O modelo foi documentado utilizando o dbdiagram.io.
